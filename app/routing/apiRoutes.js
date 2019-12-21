@@ -4,7 +4,7 @@
 // These data sources hold arrays of information
 // ===============================================================================
 
-const friendData = require("../data/friends");
+let friendData = require("../data/friends");
 
 
 // ===============================================================================
@@ -37,7 +37,7 @@ module.exports = function(app) {
       
         friendData.push(req.body);
         res.json(true);
-
+        
     });
   
     // ---------------------------------------------------------------------------

@@ -1,16 +1,16 @@
 let Will = {
     name: "Will",
-    photo: "https://media.licdn.com/dms/image/C4D03AQGGYQdCbzENOQ/profile-displayphoto-shrink_200_200/0?e=1582156800&v=beta&t=Zln4iOV_tz9ijvGj2ueyg8AeGEvx0ecVXfXshUNXoO4",
+    photo: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs-i.huffpost.com%2Fgen%2F1067332%2Fimages%2Fo-WHAT-IF-THE-SUN-DISAPPEARED-facebook.jpg&f=1&nofb=1",
     scores: [
-        5,
-        1,
-        4,
-        4,
-        5,
-        1,
         2,
-        5,
+        3,
         4,
-        1
+        1,
+        5,
+        1,
+        4,
+        5,
+        3,
+        4
       ]
 }

@@ -8,7 +8,14 @@ First, click the start button to get started.
 
 ![](/images/home.png)
 
-
 Next, enter your name and a link to a photo of you.
 
+![](/images/name.png)
+
 Then, provide an honest response to each normal prompt. If your answers aren't honest, things can go _very_ badly.
+
+Finally, you are shown the name and photo of your match!
+
+Here is the functionality behind the comparison:
+
+![](/images/function.png)

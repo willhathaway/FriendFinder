@@ -6,8 +6,8 @@ This Friend Finder app allows users to find a guaranteed best friend, based on h
 
 First, click the start button to get started.
 
-![Home] (/images/home.png)
-Format: ![Home] 
+![](/images/home.png)
+
 
 Next, enter your name and a link to a photo of you.
 

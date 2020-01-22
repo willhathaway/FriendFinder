@@ -17,8 +17,9 @@ module.exports = function (app) {
     // (ex: localhost:PORT/api/admin... they are shown a JSON of the data in the table)
     // ---------------------------------------------------------------------------
 
-    app.get("/api/friends", function (req, res) {
+    app.get("/api/friendsData", function (req, res) {
         res.json(friendData);
+        return;
     });
 
     // API POST Requests
@@ -62,6 +63,7 @@ module.exports = function (app) {
         res.json(bestFriend);
 
         friendData.push(req.body);
+
         res.json(true);
 
     });

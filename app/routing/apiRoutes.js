@@ -36,6 +36,7 @@ module.exports = function (app) {
         let scores = req.body.scores;
         // array and variable for use in the below comparison:
         let differencesArray = [];
+
         let match = 0;
 
         // loops through the people in the friends.js file:
@@ -64,7 +65,7 @@ module.exports = function (app) {
 
         friendData.push(req.body);
 
-        res.json(true);
+        
 
     });
 

@@ -19,3 +19,5 @@ Finally, you are shown the name and photo of your match!
 Here is the functionality behind the comparison:
 
 ![](/images/function.png)
+
+As you can see, the scores are put into an array variable, and an empty array of differences in created. Then, for each item in the friendsData file, the difference between that friend's scores and the user's submitted scores are compared, with the result being added to the differences array. Finally, we loop through the differences array to find the closest match.
